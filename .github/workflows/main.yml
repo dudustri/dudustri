@@ -28,9 +28,9 @@ jobs:
         with:
           github_user_name: dudustri
           outputs: |
-            dist/github-contribution-grid-snake.sv
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-dark-custom.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-dark-custom.svg?palette=github-dark&color_snake=yellow&color_dots=#FF9999,#FFB347,#FFFF99,#99FF99,#bfd6f6,#64a1f4,#B399FF,#D1B3FF
           
           
       # push the content of <build_dir> to a branch
