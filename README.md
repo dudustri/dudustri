@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  ## Here are some of my stats! 😄
 -->
 
-<div align="center">
+<div align="center"> <br>
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dudustri&theme=catppuccin_mocha&show_icons=true&text_bold=false"/>
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudustri&size_weight=1&count_weight=0&langs_count=12&layout=compact&theme=catppuccin_mocha&card_width=320"/>
 </div>
@@ -72,9 +72,14 @@ Here are some ideas to get you started:
   
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dudustri/dudustri/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dudustri/dudustri/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/dudustri/dudustri/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center"> 
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dudustri/dudustri/blob/output/github-contribution-grid-snake-dark.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/dudustri/dudustri/blob/output/github-contribution-grid-snake.svg" />
+   <img alt="github-snake" src="https://github.com/dudustri/dudustri/blob/output/github-contribution-grid-snake.svg" />
+ </picture>
+</div>
+
+<br><br>
+
 
