@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~    language badges   ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -->
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br><br>
   <img align="center" alt="aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="bash" height="30" width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
   <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -42,6 +42,8 @@ Here are some ideas to get you started:
   <img align="center" alt="graphql" height="30" width="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">
   <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ </div>
+ <div style="display: inline_block" align="center"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="kubernetes" height="30" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
@@ -55,6 +57,7 @@ Here are some ideas to get you started:
   <img align="center" alt="sqlite" height="30" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
   <img align="center" alt="tailwind" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <br><br>
 </div>
 
   ##
