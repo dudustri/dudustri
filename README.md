@@ -1,35 +1,22 @@
 ##
 
-<!-- RANDOM_GIF_PLACEHOLDER -->
+<!-- <div id="Welcome" align="center">
+    <img id="welcomeByEdu" align="center" src="welcome.svg">
+</div> -->
 
-<!--
-## Hello there! Eduardo here. Welcome to my github profile ✨☄️💻
-**dudustri/dudustri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
- ~~~~~~~~~~~~~~~~~~~~~~~~~~~    stats   ~~~~~~~~~~~~~~~~~~~~~~~~~~~
- ## Here are some of my stats! 😄
--->
-
-<div align="center">
- <picture>
-  <img alt="gif_cozy" src="anim/eb50875a68b04b0480fa929af2c7547c.gif"/>
- </picture>
+<div align="center" style="position: relative;">
+    <picture>
+        <img width=640 alt="gif_cozy" src="anim/eb50875a68b04b0480fa929af2c7547c.gif"/>
+    </picture>
+    <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); font-size: 38px; color: #fdf5e6; font-family: 'VT323', monospace; cursive; font-weight: bold;">
+        Hi there!
+    </div>
+    <div style="position: absolute; top: 53%; left: 50%; transform: translate(-50%, -50%); font-size: 38px; color: #fdf5e6; font-family: 'VT323', monospace; font-weight: bold;">
+        Welcome by <span style="color: #FFA500; font-style: italic;">Edu</span>
+    </div>
 </div>
 
-<div align="center"> <br>
+<div align="center"> <br><br>
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dudustri&theme=catppuccin_mocha&show_icons=true&text_bold=false&hide_rank=true"/>
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudustri&size_weight=1&count_weight=0&langs_count=12&layout=compact&theme=catppuccin_mocha&card_width=320"/>
 </div>
@@ -89,12 +76,12 @@ Here are some ideas to get you started:
  </picture>
 </div>
 
-<br><br>
-
-<div align="center">
- <img height=200 align="center" src="https://capsule-render.vercel.app/api?type=waves&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=catppuccin_mocha&section=footer"/>
-</div>
+<br> <br>
 
 <div id="random-gif-container" align="center">
-    <img id="random-gif" align="center" src="./anim/e7d2bd61228185.5a67a07360e75.gif" width="500px" onclick="changeGif()" style="cursor: pointer;">
+    <img id="random-gif" align="center" src="./anim/e7d2bd61228185.5a67a07360e75.gif">
+</div>
+
+<div align="center">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,22,4,9,1,13,23,24,2,5&section=footer"/>
 </div>
