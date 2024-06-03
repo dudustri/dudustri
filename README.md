@@ -1,5 +1,7 @@
 ## Hello there! Eduardo here. Welcome to my github profile ✨☄️💻
 
+<!-- RANDOM_GIF_PLACEHOLDER -->
+
 <!--
 **dudustri/dudustri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -86,8 +88,24 @@ Here are some ideas to get you started:
 
 <div align="center"> 
  <picture>
-  <img alt="github-snake" src="anim/eb50875a68b04b0480fa929af2c7547c.gif"/>
+  <img alt="gif_cozy" src="anim/eb50875a68b04b0480fa929af2c7547c.gif"/>
  </picture>
 </div>
 
-<br>
+<br>><br>
+
+<div align="center"> <br>
+ <img height=200 align="center" src="https://capsule-render.vercel.app/api?type=waves&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=catppuccin_mocha&section=footer">
+</div>
+
+<div id="random-gif-container" align="center">
+    <img id="random-gif" align="center" src="./anim/e7d2bd61228185.5a67a07360e75.gif" width="500px" onclick="changeGif()" style="cursor: pointer;">
+</div>
+<script>
+    const gifs = ["e7d2bd61228185.5a67a07360e75.gif","0w8k67nd28971.gif","eb50875a68b04b0480fa929af2c7547c.gif"];
+    let currentGif = 0;
+    function changeGif() {
+        currentGif = (currentGif + 1) % gifs.length;
+        document.getElementById("random-gif").src = "./anim/" + gifs[currentGif];
+    }
+</script>
