@@ -81,3 +81,13 @@ Here are some ideas to get you started:
 </div>
 
 <br><br>
+
+<br>
+
+<div align="center"> 
+ <picture>
+  <img alt="github-snake" src="anim/eb50875a68b04b0480fa929af2c7547c.gif"/>
+ </picture>
+</div>
+
+<br>
