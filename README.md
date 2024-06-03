@@ -1,8 +1,9 @@
-## Hello there! Eduardo here. Welcome to my github profile ✨☄️💻
+##
 
 <!-- RANDOM_GIF_PLACEHOLDER -->
 
 <!--
+## Hello there! Eduardo here. Welcome to my github profile ✨☄️💻
 **dudustri/dudustri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,6 +22,12 @@ Here are some ideas to get you started:
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~    stats   ~~~~~~~~~~~~~~~~~~~~~~~~~~~
  ## Here are some of my stats! 😄
 -->
+
+<div align="center">
+ <picture>
+  <img alt="gif_cozy" src="anim/eb50875a68b04b0480fa929af2c7547c.gif"/>
+ </picture>
+</div>
 
 <div align="center"> <br>
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dudustri&theme=catppuccin_mocha&show_icons=true&text_bold=false&hide_rank=true"/>
@@ -67,14 +74,14 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block" align="center">
   <a href="https://instagram.com/dudustri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/dudustri" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/277909376688455681" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.twitch.tv/dudustri" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discordapp.com/users/277909376688455681" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduardostrindade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-sfreddo-trindade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/eduardo-sfreddo-trindade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
 
-<div align="center"> 
+<div align="center">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dudustri/dudustri/blob/output/github-contribution-grid-snake-dark.svg" />
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/dudustri/dudustri/blob/output/github-contribution-grid-snake.svg" />
@@ -84,28 +91,10 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<br>
-
-<div align="center"> 
- <picture>
-  <img alt="gif_cozy" src="anim/eb50875a68b04b0480fa929af2c7547c.gif"/>
- </picture>
-</div>
-
-<br>><br>
-
-<div align="center"> <br>
- <img height=200 align="center" src="https://capsule-render.vercel.app/api?type=waves&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=catppuccin_mocha&section=footer">
+<div align="center">
+ <img height=200 align="center" src="https://capsule-render.vercel.app/api?type=waves&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=catppuccin_mocha&section=footer"/>
 </div>
 
 <div id="random-gif-container" align="center">
     <img id="random-gif" align="center" src="./anim/e7d2bd61228185.5a67a07360e75.gif" width="500px" onclick="changeGif()" style="cursor: pointer;">
 </div>
-<script>
-    const gifs = ["e7d2bd61228185.5a67a07360e75.gif","0w8k67nd28971.gif","eb50875a68b04b0480fa929af2c7547c.gif"];
-    let currentGif = 0;
-    function changeGif() {
-        currentGif = (currentGif + 1) % gifs.length;
-        document.getElementById("random-gif").src = "./anim/" + gifs[currentGif];
-    }
-</script>
