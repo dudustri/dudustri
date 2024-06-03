@@ -1,4 +1,5 @@
 ## Hello there! Eduardo here. Welcome to my github profile ✨☄️💻
+
 <!--
 **dudustri/dudustri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> <br>
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dudustri&theme=catppuccin_mocha&show_icons=true&text_bold=false"/>
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dudustri&theme=catppuccin_mocha&show_icons=true&text_bold=false&hide_rank=true"/>
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudustri&size_weight=1&count_weight=0&langs_count=12&layout=compact&theme=catppuccin_mocha&card_width=320"/>
 </div>
 
@@ -60,10 +61,9 @@ Here are some ideas to get you started:
   <br><br>
 </div>
 
-  ##
- 
+##
+
 <div style="display: inline_block" align="center">
-  <a href="https://www.youtube.com/channel/UCixA2GN6DCbr2gwVWfjCtrA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/dudustri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/dudustri" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/277909376688455681" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -81,5 +81,3 @@ Here are some ideas to get you started:
 </div>
 
 <br><br>
-
-
