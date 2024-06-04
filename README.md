@@ -1,19 +1,19 @@
 ##
 
-<!-- <div id="Welcome" align="center">
+<div id="Welcome" align="center">
     <img id="welcomeByEdu" align="center" src="welcome.svg">
-</div> -->
+</div>
 
 <div align="center" style="position: relative;">
     <picture>
         <img width=640 alt="gif_cozy" src="anim/eb50875a68b04b0480fa929af2c7547c.gif"/>
     </picture>
-    <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); font-size: 38px; color: #fdf5e6; font-family: 'VT323', monospace; cursive; font-weight: bold;">
+    <!-- <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); font-size: 38px; color: #fdf5e6; font-family: 'VT323', monospace; cursive; font-weight: bold;">
         Hi there!
     </div>
     <div style="position: absolute; top: 53%; left: 50%; transform: translate(-50%, -50%); font-size: 38px; color: #fdf5e6; font-family: 'VT323', monospace; font-weight: bold;">
         Welcome by <span style="color: #FFA500; font-style: italic;">Edu</span>
-    </div>
+    </div> -->
 </div>
 
 <div align="center"> <br><br>

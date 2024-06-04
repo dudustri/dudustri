@@ -1,26 +1,21 @@
-<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
-    /* Define CSS styles for fonts */
     /* VT323 font */
     @font-face {
       font-family: 'VT323';
       src: url('https://fonts.gstatic.com/s/vt323/v13/pxiKyp0ihIEF2hsYHpT2dk_m.woff2') format('woff2');
     }
-    /* Press Start 2P font */
-    @font-face {
-      font-family: 'Press Start 2P';
-      src: url('https://fonts.gstatic.com/s/pressstart2p/v10/e3t4euO8T-267oIAQAu6jDQ2oeXyfJd2umX8kg.woff2') format('woff2');
-    }
   </style>
-
-
-  <!-- Apply the clip path to the image -->
-  <image src="./anim/eb50875a68b04b0480fa929af2c7547c.gif" width="640" x="80" y="100" rx="20" ry="20"/>
   
-  <!-- "Hi there!" text -->
+  <defs>
+        <clipPath id="roundCorners">
+            <circle rx="20" ry="20" />
+        </clipPath>
+  </defs>
+
+  <image width="640" x="80" y="100" href="https://raw.githubusercontent.com/dudustri/dudustri/main/anim/eb50875a68b04b0480fa929af2c7547c.gif" clip-path="url(#roundCorners)"/>
+  
   <text x="400" y="240" text-anchor="middle" font-family="'VT323', monospace" font-size="38px" fill="#fdf5e6" font-weight="bold">Hi there!</text>
-  
-  <!-- "Welcome by Edu" text -->
-  <text x="400" y="330" text-anchor="middle" font-family="'VT323', monospace" font-size="38px" fill="#fdf5f6" font-weight="bold">Welcome by</text>
-  <text x="570" y="333" text-anchor="middle" font-family="'Press Start 2P', cursive" font-size="38px" fill="#FFA500" font-style="italic">Edu</text>
+  <text x="350" y="290" text-anchor="middle" font-family="'VT323', monospace" font-size="38px" fill="#fdf5f6" font-weight="bold">Welcome by</text>
+  <text x="520" y="290" text-anchor="middle" font-family="'VT323', monospace" font-size="38px" fill="#FFA500" font-weight="bold" font-style="italic">Edu</text>
 </svg>
