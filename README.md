@@ -1,19 +1,11 @@
+#
+
 ##
 
 <div id="Welcome" align="center">
-    <img id="welcomeByEdu" align="center" src="welcome.svg">
-</div>
-
-<div align="center" style="position: relative;">
-    <picture>
-        <img width=640 alt="gif_cozy" src="anim/eb50875a68b04b0480fa929af2c7547c.gif"/>
-    </picture>
-    <!-- <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); font-size: 38px; color: #fdf5e6; font-family: 'VT323', monospace; cursive; font-weight: bold;">
-        Hi there!
-    </div>
-    <div style="position: absolute; top: 53%; left: 50%; transform: translate(-50%, -50%); font-size: 38px; color: #fdf5e6; font-family: 'VT323', monospace; font-weight: bold;">
-        Welcome by <span style="color: #FFA500; font-style: italic;">Edu</span>
-    </div> -->
+   <picture>
+      <img id="welcomeByEdu" align="center" src="anim/welcomeEdu.svg">
+   </picture>
 </div>
 
 <div align="center"> <br><br>
@@ -79,7 +71,7 @@
 <br> <br>
 
 <div id="random-gif-container" align="center">
-    <img id="random-gif" align="center" src="./anim/e7d2bd61228185.5a67a07360e75.gif">
+    <img id="random-gif" align="center" src="./anim/eb50875a68b04b0480fa929af2c7547c.gif">
 </div>
 
 <div align="center">
