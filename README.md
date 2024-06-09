@@ -4,7 +4,7 @@
 
 <div id="Welcome" align="center">
    <picture>
-      <img id="welcomeByEdu" align="center" src="anim/welcomeEdu.svg">
+      <img id="welcomeByEdu" align="center" src="anim/welcomeBydudustri2.gif">
    </picture>
 </div>
 
@@ -69,10 +69,6 @@
 </div>
 
 <br> <br>
-
-<div id="random-gif-container" align="center">
-    <img id="random-gif" align="center" src="./anim/eb50875a68b04b0480fa929af2c7547c.gif">
-</div>
 
 <div align="center">
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,22,4,9,1,13,23,24,2,5&section=footer"/>
