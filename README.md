@@ -10,7 +10,7 @@
 
 <div align="center"> <br><br>
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dudustri&theme=catppuccin_mocha&show_icons=true&text_bold=false&hide_rank=true"/>
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudustri&size_weight=1&count_weight=0&langs_count=12&layout=compact&theme=catppuccin_mocha&card_width=320"/>
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudustri&size_weight=1&count_weight=0&langs_count=12&layout=compact&theme=catppuccin_mocha&card_width=320&exclude_repo=PCPP"/>
 </div>
 
 <!--
