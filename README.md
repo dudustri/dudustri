@@ -1,12 +1,16 @@
 #
 
-##
+<br>
 
 <div id="Welcome" align="center">
    <picture>
-      <img id="welcomeByEdu" align="center" src="anim/welcomeBydudustri2.gif">
+      <img id="welcomeByEdu" align="center" width="610" src="anim/welcomeBydudustri2.gif">
    </picture>
 </div>
+
+<!--
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~    git stats card    ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
 
 <div align="center"> <br><br>
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dudustri&theme=catppuccin_mocha&show_icons=true&text_bold=false&hide_rank=true"/>
@@ -52,13 +56,17 @@
 ##
 
 <div style="display: inline_block" align="center">
-  <a href="https://instagram.com/dudustri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/dudustri" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/277909376688455681" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eduardostrindade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-sfreddo-trindade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/dudustri" target="_blank"><img height="23" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/dudustri" target="_blank"><img height="23" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/277909376688455681" target="_blank"><img height="23" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eduardostrindade@gmail.com"><img height="23" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-sfreddo-trindade/" target="_blank"><img height="23" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
+
+<!--
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~    snake    ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
 
 <div align="center">
  <picture>
@@ -69,6 +77,10 @@
 </div>
 
 <br> <br>
+
+<!--
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~    color wave footer    ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
 
 <div align="center">
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,22,4,9,1,13,23,24,2,5&section=footer"/>
