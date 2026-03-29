@@ -26,7 +26,7 @@
   <img align="center" alt="bash" height="30" width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
   <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="rust" height="30" width="40" src=https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+  <img align="center" alt="rust" height="30" width="40" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
   <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
@@ -46,7 +46,7 @@
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
-  <img align="center" alt="bun" height="30" width="40" src="https://www.vectorlogo.zone/logos/bunsh/bunsh-ar21.svg">
+  <img align="center" alt="bun" height="30" width="40" src="https://www.vectorlogo.zone/logos/bunsh/bunsh-icon.svg">
   <img align="center" alt="sqlite" height="30" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
   <img align="center" alt="tailwind" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
