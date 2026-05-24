@@ -4,7 +4,7 @@
 
 <div id="Welcome" align="center">
    <picture>
-      <img id="welcomeByEdu" align="center" width="610" src="anim/welcomeBydudustri2.gif">
+      <img id="welcomeByEdu" align="center" width="610" src="https://raw.githubusercontent.com/dudustri/dudustri/output/active.gif">
    </picture>
 </div>
 
@@ -13,8 +13,8 @@
 -->
 
 <div align="center"> <br><br>
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dudustri&theme=catppuccin_mocha&show_icons=true&text_bold=false&hide_rank=true"/>
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudustri&size_weight=1&count_weight=0&langs_count=12&layout=compact&theme=catppuccin_mocha&card_width=320&exclude_repo=PCPP"/>
+ <img height=200 align="center" src="https://raw.githubusercontent.com/dudustri/dudustri/output/stats.svg"/>
+ <img height=195 align="center" src="https://raw.githubusercontent.com/dudustri/dudustri/output/top-langs.svg"/>
 </div>
 
 <!--

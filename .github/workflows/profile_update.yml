@@ -1,0 +1,63 @@
+name: generate assets
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: dudustri
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=yellow
+
+      - name: generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=dudustri&theme=catppuccin_mocha&show_icons=true&text_bold=false&hide_rank=true
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: generate top langs card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=dudustri&size_weight=1&count_weight=0&langs_count=12&layout=compact&theme=catppuccin_mocha&card_width=360&exclude_repo=PCPP
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: pick gif by run parity
+        run: |
+          if [ $(( ${{ github.run_number }} % 2 )) -eq 0 ]; then
+            cp anim/coffeewelcome.gif dist/active.gif
+          else
+            cp anim/homewelcome.gif dist/active.gif
+          fi
+
+      - name: push to output branch
+        run: |
+          cd dist
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore: generate assets $(date +'%Y-%m-%d %H:%M UTC')"
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/dudustri/dudustri.git" HEAD:output
